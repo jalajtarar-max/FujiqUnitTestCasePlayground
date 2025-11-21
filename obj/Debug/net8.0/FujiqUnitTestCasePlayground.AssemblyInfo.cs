@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FujiqUnitTestCasePlayground")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ab7667b030118cc225c24d08984362b7a6c17b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FujiqUnitTestCasePlayground")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FujiqUnitTestCasePlayground")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
